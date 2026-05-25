@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingprocess",
+        "uuid": 3095064,
+        "checksum": "qhowo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
